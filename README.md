@@ -38,7 +38,7 @@
 <p align="center"><i>Dynamic repository cards rendered with custom Google Fonts</i></p>
 
 <div align="center">
-  <a href="https://github.com/Omshri47/online-fraud-detection">
+  <a href="https://github.com/Omshri47/divine_ai_app">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Omshri47&repo=online-fraud-detection&theme=transparent&font=poppins&title_color=2F80ED&text_color=777777&icon_color=2F80ED&border_color=E4E2E2&border_radius=10" width="48%" alt="Online Fraud Detection" />
   </a>
   <a href="https://github.com/Omshri47/UIDAI-hackathon">
