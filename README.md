@@ -2,7 +2,7 @@
   <h1>Hi there, I'm Omshri Patel <img src="https://media.giphy.com/media/hvRJCLFzcasr14yMyH/giphy.gif" width="35px" alt="Waving Hand"></h1>
   
   <a href="https://github.com/Omshri47">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=2F80ED&center=true&vCenter=true&width=800&lines=Full-Stack+Software+Developer;Data+Science+%26+Analytics+Pro;Machine+Learning+Enthusiast;Problem+Solver+%26+Innovator" alt="Typing SVG" />
+    
   </a>
 </div>
 
