@@ -1,7 +1,11 @@
 <div align="center">
-  <h1>Hi there, I'm Omshri Patel 👋</h1>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="45" />
+  <h1>Hi there, I'm Omshri Patel</h1>
   
-  <h3>Full-Stack Software Developer | Data Science & Analytics Pro | Machine Learning Enthusiast</h3>
+  <!-- Dynamic Typing Animation for Roles -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=800&lines=Full-Stack+Software+Developer;Data+Science+%26+Analytics+Pro;Machine+Learning+Enthusiast" alt="Typing SVG" />
+  </a>
 </div>
 
 <br>
@@ -14,6 +18,11 @@
     🌱 Mastering <b>Power BI & Advanced Scikit-learn</b><br>
     💬 Ask me about <b>Backend Architecture, ML Projects, or C++</b>
   </p>
+
+  <!-- Profile View Counter -->
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=Omshri47&label=Profile%20Views&color=2F80ED&style=flat-square" alt="Profile Views" />
+  </p>
 </div>
 
 <br>
@@ -22,13 +31,13 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,go,js,postgres,gcp,azure,git&theme=light" alt="Core Skills" />
+    <img src="https://skillicons.dev/icons?i=python,cpp,go,js,postgres,gcp,azure,git,docker,linux&theme=light" alt="Core Skills" />
   </a>
   <br><br>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
 </div>
 
 <br><br>
@@ -59,6 +68,11 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Omshri47&show_icons=true&theme=transparent&font=poppins&title_color=2F80ED&text_color=777777&icon_color=2F80ED&border_color=E4E2E2&border_radius=10" width="48%" alt="Omshri's GitHub Stats" />
+  <!-- Added GitHub Streak Stats for extra visual appeal -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Omshri47&theme=transparent&border_radius=10&font=poppins&title_color=2F80ED&text_color=777777&icon_color=2F80ED&border_color=E4E2E2" width="48%" alt="Omshri's GitHub Streak" />
+</div>
+<br>
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omshri47&layout=compact&theme=transparent&font=poppins&title_color=2F80ED&text_color=777777&border_color=E4E2E2&border_radius=10" width="48%" alt="Top Languages" />
 </div>
 
@@ -80,5 +94,7 @@
 
 <br>
 <p align="center">
-  <b>⭐ If you find my projects useful, please consider giving them a star! ⭐</b>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" alt="Sparkles" width="25" />
+  <b>If you find my projects useful, please consider giving them a star!</b>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" alt="Sparkles" width="25" />
 </p>
