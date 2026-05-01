@@ -46,19 +46,20 @@
 
 <p align="center"><i>Dynamic repository cards rendered with custom Google Fonts</i></p>
 
+<!-- Using fixed widths (400) instead of percentages prevents layout breaking if an image fails to load -->
 <div align="center">
   <a href="https://github.com/Omshri47/divine_ai_app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Omshri47&repo=divine_ai_app&theme=transparent&font=poppins&title_color=2F80ED&text_color=777777&icon_color=2F80ED&border_color=E4E2E2&border_radius=10" width="48%" alt="Divine healthcare" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Omshri47&repo=divine_ai_app&theme=transparent&font=poppins&title_color=2F80ED&text_color=777777&icon_color=2F80ED&border_color=E4E2E2&border_radius=10" width="400" alt="Divine healthcare" />
   </a>
   <a href="https://github.com/Omshri47/UIDAI-hackathon">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Omshri47&repo=UIDAI-hackathon&theme=transparent&font=poppins&title_color=2F80ED&text_color=777777&icon_color=2F80ED&border_color=E4E2E2&border_radius=10" width="48%" alt="UIDAI Hackathon" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Omshri47&repo=UIDAI-hackathon&theme=transparent&font=poppins&title_color=2F80ED&text_color=777777&icon_color=2F80ED&border_color=E4E2E2&border_radius=10" width="400" alt="UIDAI Hackathon" />
   </a>
   <br><br>
   <a href="https://github.com/Omshri47/crypto_project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Omshri47&repo=crypto_project&theme=transparent&font=poppins&title_color=2F80ED&text_color=777777&icon_color=2F80ED&border_color=E4E2E2&border_radius=10" width="48%" alt="Crypto Project" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Omshri47&repo=crypto_project&theme=transparent&font=poppins&title_color=2F80ED&text_color=777777&icon_color=2F80ED&border_color=E4E2E2&border_radius=10" width="400" alt="Crypto Project" />
   </a>
   <a href="https://github.com/Omshri47/Interactive-Coding">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Omshri47&repo=Interactive-Coding&theme=transparent&font=poppins&title_color=2F80ED&text_color=777777&icon_color=2F80ED&border_color=E4E2E2&border_radius=10" width="48%" alt="Interactive Coding" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Omshri47&repo=Interactive-Coding&theme=transparent&font=poppins&title_color=2F80ED&text_color=777777&icon_color=2F80ED&border_color=E4E2E2&border_radius=10" width="400" alt="Interactive Coding" />
   </a>
 </div>
 
@@ -67,13 +68,12 @@
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Omshri47&show_icons=true&theme=transparent&font=poppins&title_color=2F80ED&text_color=777777&icon_color=2F80ED&border_color=E4E2E2&border_radius=10" width="48%" alt="Omshri's GitHub Stats" />
-  <!-- Added GitHub Streak Stats for extra visual appeal -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Omshri47&theme=transparent&border_radius=10&font=poppins&title_color=2F80ED&text_color=777777&icon_color=2F80ED&border_color=E4E2E2" width="48%" alt="Omshri's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Omshri47&show_icons=true&theme=transparent&font=poppins&title_color=2F80ED&text_color=777777&icon_color=2F80ED&border_color=E4E2E2&border_radius=10" width="400" alt="Omshri's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Omshri47&theme=transparent&border_radius=10&font=poppins&title_color=2F80ED&text_color=777777&icon_color=2F80ED&border_color=E4E2E2" width="400" alt="Omshri's GitHub Streak" />
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omshri47&layout=compact&theme=transparent&font=poppins&title_color=2F80ED&text_color=777777&border_color=E4E2E2&border_radius=10" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omshri47&layout=compact&theme=transparent&font=poppins&title_color=2F80ED&text_color=777777&border_color=E4E2E2&border_radius=10" width="400" alt="Top Languages" />
 </div>
 
 <br><br>
