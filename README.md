@@ -7,25 +7,20 @@
   </a>
 </div>
 
-<br>
-
 <div align="center">
-  <p><i>Passionate B.Tech student building scalable solutions with Python, cloud technologies, and machine learning for real-world problems.</i></p>
+  <p><i>Building scalable solutions with Python, cloud technologies, and machine learning for real-world impact.</i></p>
 
   <p>
     🔭 Currently preparing for my <b>Google Gen AI Certification</b><br>
-    🌱 Learning <b>Power BI</b> and <b>advanced Scikit-learn</b><br>
-    💬 Ask me about <b>backend development, ML projects, or C++</b>
-  </p>
-
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=Omshri47&label=Profile%20Views&color=2F80ED&style=flat-square" alt="Profile Views" />
+    🌱 Deepening my expertise in <b>Power BI & Advanced Scikit-Learn</b><br>
+    💡 Passionate about solving complex problems through data and efficient architecture<br>
+    💬 Ask me about <b>Backend Development, ML Models, or C++</b>
   </p>
 </div>
 
 <br>
 
-<h2 align="center">🛠️ Technical Arsenal</h2>
+<h3 align="center">🛠️ Technical Arsenal</h3>
 
 <div align="center">
   <a href="https://skillicons.dev">
@@ -40,9 +35,7 @@
 
 <br><br>
 
-<h2 align="center">🚀 Featured Projects</h2>
-
-<p align="center"><i>Highlighted repositories and work I’m proud of</i></p>
+<h3 align="center">🚀 Featured Projects</h3>
 
 <div align="center">
   <a href="https://github.com/Omshri47/divine_ai_app">
@@ -51,7 +44,7 @@
   <a href="https://github.com/Omshri47/UIDAI-hackathon">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Omshri47&repo=UIDAI-hackathon&theme=transparent&font=poppins&title_color=2F80ED&text_color=777777&icon_color=2F80ED&border_color=E4E2E2&border_radius=10" width="400" alt="UIDAI Hackathon" />
   </a>
-  <br><br>
+  <br>
   <a href="https://github.com/Omshri47/crypto_project">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Omshri47&repo=crypto_project&theme=transparent&font=poppins&title_color=2F80ED&text_color=777777&icon_color=2F80ED&border_color=E4E2E2&border_radius=10" width="400" alt="Crypto Project" />
   </a>
@@ -62,21 +55,16 @@
 
 <br><br>
 
-<h2 align="center">📊 GitHub Analytics</h2>
+<h3 align="center">📊 GitHub Analytics</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Omshri47&show_icons=true&theme=default&hide_border=false" width="400" alt="Omshri's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omshri47&layout=compact&theme=default&hide_border=false" width="400" alt="Top Languages" />
-</div>
-<br>
-
-<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Omshri47&show_icons=true&theme=transparent&font=poppins&title_color=2F80ED&text_color=777777&icon_color=2F80ED&border_color=E4E2E2&border_radius=10" width="400" alt="Omshri's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omshri47&layout=compact&theme=transparent&font=poppins&title_color=2F80ED&text_color=777777&border_color=E4E2E2&border_radius=10" width="400" alt="Top Languages" />
 </div>
 
 <br><br>
 
-<h2 align="center">📫 Let's Connect</h2>
+<h3 align="center">📫 Let's Connect</h3>
 
 <div align="center">
   <a href="mailto:omshripate47@gmail.com">
@@ -92,8 +80,12 @@
 
 <br>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Omshri47&label=Profile%20Views&color=2F80ED&style=flat-square" alt="Profile Views" />
+</div>
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" alt="Sparkles" width="25" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" alt="Sparkles" width="20" />
   <b>If you find my projects useful, consider giving them a star!</b>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" alt="Sparkles" width="25" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" alt="Sparkles" width="20" />
 </p>
