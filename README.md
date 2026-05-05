@@ -77,7 +77,7 @@
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Omshri47&theme=github-light&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
+
 
 <br><br>
 
