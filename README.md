@@ -38,19 +38,32 @@
 <h3 align="center">🚀 Featured Projects</h3>
 
 <div align="center">
-  <a href="https://github.com/Omshri47/divine_ai_app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Omshri47&repo=divine_ai_app&theme=transparent&font=poppins&title_color=2F80ED&text_color=777777&icon_color=2F80ED&border_color=E4E2E2&border_radius=10" width="400" alt="Divine AI App" />
-  </a>
-  <a href="https://github.com/Omshri47/UIDAI-hackathon">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Omshri47&repo=UIDAI-hackathon&theme=transparent&font=poppins&title_color=2F80ED&text_color=777777&icon_color=2F80ED&border_color=E4E2E2&border_radius=10" width="400" alt="UIDAI Hackathon" />
-  </a>
-  <br>
-  <a href="https://github.com/Omshri47/crypto_project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Omshri47&repo=crypto_project&theme=transparent&font=poppins&title_color=2F80ED&text_color=777777&icon_color=2F80ED&border_color=E4E2E2&border_radius=10" width="400" alt="Crypto Project" />
-  </a>
-  <a href="https://github.com/Omshri47/Interactive-Coding">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Omshri47&repo=Interactive-Coding&theme=transparent&font=poppins&title_color=2F80ED&text_color=777777&icon_color=2F80ED&border_color=E4E2E2&border_radius=10" width="400" alt="Interactive Coding" />
-  </a>
+  <table>
+    <tr>
+      <td width="50%">
+        <a href="https://github.com/Omshri47/divine_ai_app">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Omshri47&repo=divine_ai_app&theme=transparent&font=poppins&title_color=2F80ED&text_color=777777&icon_color=2F80ED&border_color=E4E2E2&border_radius=10" alt="Divine AI App" />
+        </a>
+      </td>
+      <td width="50%">
+        <a href="https://github.com/Omshri47/UIDAI-hackathon">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Omshri47&repo=UIDAI-hackathon&theme=transparent&font=poppins&title_color=2F80ED&text_color=777777&icon_color=2F80ED&border_color=E4E2E2&border_radius=10" alt="UIDAI Hackathon" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <a href="https://github.com/Omshri47/crypto_project">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Omshri47&repo=crypto_project&theme=transparent&font=poppins&title_color=2F80ED&text_color=777777&icon_color=2F80ED&border_color=E4E2E2&border_radius=10" alt="Crypto Project" />
+        </a>
+      </td>
+      <td width="50%">
+        <a href="https://github.com/Omshri47/Interactive-Coding">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Omshri47&repo=Interactive-Coding&theme=transparent&font=poppins&title_color=2F80ED&text_color=777777&icon_color=2F80ED&border_color=E4E2E2&border_radius=10" alt="Interactive Coding" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br><br>
@@ -58,9 +71,13 @@
 <h3 align="center">📊 GitHub Analytics</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Omshri47&show_icons=true&theme=transparent&font=poppins&title_color=2F80ED&text_color=777777&icon_color=2F80ED&border_color=E4E2E2&border_radius=10" width="400" alt="Omshri's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omshri47&layout=compact&theme=transparent&font=poppins&title_color=2F80ED&text_color=777777&border_color=E4E2E2&border_radius=10" width="400" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Omshri47&show_icons=true&theme=transparent&font=poppins&title_color=2F80ED&text_color=777777&icon_color=2F80ED&border_color=E4E2E2&border_radius=10" width="49%" alt="Omshri's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omshri47&layout=compact&theme=transparent&font=poppins&title_color=2F80ED&text_color=777777&border_color=E4E2E2&border_radius=10" width="49%" alt="Top Languages" />
 </div>
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Omshri47&theme=github-light&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
 
 <br><br>
 
