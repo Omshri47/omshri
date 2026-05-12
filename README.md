@@ -33,27 +33,6 @@
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
 </div>
 
-<br><br>
-
-<h3 align="center">🚀 Featured Projects</h3>
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <a href="https://github.com/Omshri47/divine_ai_app">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Omshri47&repo=divine_ai_app&theme=transparent&font=poppins&title_color=2F80ED&text_color=777777&icon_color=2F80ED&border_color=E4E2E2&border_radius=10" alt="Divine AI App" />
-        </a>
-      </td>
-      <td width="50%">
-        <a href="https://github.com/Omshri47/UIDAI-hackathon">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Omshri47&repo=UIDAI-hackathon&theme=transparent&font=poppins&title_color=2F80ED&text_color=777777&icon_color=2F80ED&border_color=E4E2E2&border_radius=10" alt="UIDAI Hackathon" />
-        </a>
-      </td>
-    </tr>
-    
-  </table>
-</div>
 
 <br><br>
 
